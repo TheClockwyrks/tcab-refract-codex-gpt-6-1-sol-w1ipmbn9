@@ -1,0 +1,15 @@
+[[media]]
+file = "trace.json.gz"
+name = "Two beams, one balanced bench"
+
+[[media]]
+file = "board.png"
+name = "Thread the shared crystals"
+
+[[media]]
+file = "title.png"
+name = "Draw the light"
+
+[[media]]
+file = "select.png"
+name = "Twenty-four optical studies"
